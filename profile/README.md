@@ -2,7 +2,6 @@
 
 Welcome to Spreaddit! This README will guide you through the setup and usage of our Reddit-like application. Spreaddit aims to provide a platform for users to engage in discussions, share content, and connect with communities.
 
-![Spreaddit Logo](https://example.com/spreaddit-logo.png)
 
 ## Table of Contents
 1. [Introduction](#introduction)
