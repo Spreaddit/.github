@@ -40,7 +40,11 @@ Spreaddit is organized into five repositories, each serving a specific purpose:
 4. **Testing**: Includes E2E testing and Stress testing for quality assurance.
 5. **DevOps**: Implements deployment, monitoring, and infrastructure management.
 
+
 ## Team Members
+
+### Team Leader
+- @Basem1166
 
 ### Frontend Team
 
@@ -53,35 +57,31 @@ Spreaddit is organized into five repositories, each serving a specific purpose:
 
 ### Backend Team
 
-- **Team Leader**: Michael Brown
-- **Subteam Leader**: Emily Davis
+- **Subteam Leader**: @amiraelgarf
 - **Members**:
-  - Charles Wilson
-  - Sarah Martinez
+  - @FarouqDiaa
+  - @mahmoudaly964
+  - @MohamedMAher03
 
-### Cross-Platform Backend Team
+### Cross-Platform Team
 
-- **Team Leader**: David Garcia
-- **Subteam Leader**: Olivia Rodriguez
+- **Subteam Leader**: @Faridamukhtar
 - **Members**:
-  - James Lee
-  - Emma Hernandez
+  - @chiz8622
+  - @Galal-00
+  - @mariammahrous23
+  - @rehabahmeddd
+  - @Basem1166
 
 ### Testing Team
 
-- **Team Leader**: Sophia Gonzalez
-- **Subteam Leader**: Ethan Perez
+- **Subteam Leader**: @abdelrahman-ayyman
 - **Members**:
-  - Daniel Taylor
-  - Isabella Lopez
+  - @yusuffaymann
 
 ### DevOps Team
 
-- **Team Leader**: Samuel Scott
-- **Subteam Leader**: Ava King
-- **Members**:
-  - Benjamin Young
-  - Mia Thomas
+- @Amira764
 
 ## Usage
 
