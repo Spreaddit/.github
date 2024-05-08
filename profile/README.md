@@ -14,7 +14,7 @@ Welcome to Spreaddit! This README will guide you through the setup and usage of 
 
 ## Introduction
 
-Spreaddit is an open-source project developed by Cairo University - Faculty of Engineering. It is designed to resemble the popular social media platform Reddit, offering features such as messaging, moderation, mailing, search, notifications, verification, unit testing, and functional documentation. Whether you're a developer looking to contribute or a user eager to join discussions, Spreaddit has something for everyone.
+Spreaddit is a Software Engineering Project developed by Cairo University - Faculty of Engineering. It is designed to resemble the popular social media platform Reddit, offering features such as messaging, moderation, mailing, search, notifications, verification, unit testing, and functional documentation. Whether you're a developer looking to contribute or a user eager to join discussions, Spreaddit has something for everyone.
 
 ## Features
 
