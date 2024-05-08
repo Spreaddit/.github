@@ -48,7 +48,7 @@ To use spreaddit simply go to https://spreaddit.me  and :
 2. Explore communities or create your own.
 3. Join discussions, share content, and engage with other users.
 4. Use messaging for private conversations.
-5. Contribute to the development of Spreaddit by reporting issues or submitting pull requests.
+5. Contribute to the development of Spreaddit by reporting issues .
 
 
 ---
