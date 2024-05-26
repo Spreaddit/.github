@@ -84,7 +84,7 @@ Spreaddit is organized into five repositories, each serving a specific purpose:
 
 ## Usage
 
-To use Spreaddit, simply visit [spreaddit.me](https://spreaddit.me) and follow these steps:
+To use Spreaddit, simply visit [spreaddit Desktop Website](https://spreadit-fe.vercel.app) or [spreaddit Cross Platform Website](https://app.spreaddit.me)  and follow these steps:
 
 1. Sign up or log in to your account.
 2. Explore communities or create your own.
