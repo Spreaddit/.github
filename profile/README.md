@@ -1,6 +1,6 @@
 # Spreaddit - A Reddit-like Application
 
-Welcome to Spreaddit! This README will guide you through the setup and usage of our Reddit-like application. Spreaddit aims to provide a platform for users to engage in discussions, share content, and connect with communities.
+Welcome to Spreaddit! Our Reddit-like application aims to provide a platform for users to engage in discussions, share content, and connect with communities.
 
 
 ## Table of Contents
@@ -82,15 +82,8 @@ Spreaddit is organized into five repositories, each serving a specific purpose:
 
 - @Amira764
 
-## Usage
+## [Demo Video](https://drive.google.com/drive/folders/1-u0OUteYvy1uXBA-FVaE97oJO-dRbvq0) 
 
-To use Spreaddit, simply visit [spreaddit Desktop Website](https://spreadit-fe.vercel.app) or [spreaddit Cross Platform Website](https://app.spreaddit.me)  and follow these steps:
-
-1. Sign up or log in to your account.
-2. Explore communities or create your own.
-3. Join discussions, share content, and engage with other users.
-4. Use messaging for private conversations.
-5. Contribute to the development of Spreaddit by reporting issues .
 
 ---
 
