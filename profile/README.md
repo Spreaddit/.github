@@ -8,7 +8,6 @@ Welcome to Spreaddit! Our Reddit-like application aims to provide a platform for
 2. [Features](#features)
 3. [Repositories](#repositories)
 4. [Team Members](#team-members)
-5. [Usage](#usage)
 
 ---
 
